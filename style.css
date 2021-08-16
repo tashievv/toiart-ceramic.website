@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+  border: 1px solid;
+  display: inline;
+  float: right;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: coral;
+  text-decoration: none;
+}
+.block-wrapper {
+  width: 200px;
+  background-color: #ccc;
+  padding: 15px;
+  border: 10px solid yellow;
+  border-width: 10px;
+}
+.block-wrapper:hover {
+  transition-duration: 1.5s;
+  top: 2px;
+  background-color: red;
+  border-style: ridge;
+}
+.wrapper-menu {
+  padding-left: 13px;
+}
+
+.logo {
+  float: left;
+  margin: 5px;
+}
+.header-logo-h1 {
+  padding-top: 5px;
+  padding-bottom: 0%;
+}
+.container {
+  background-color: yellow;
+}
+main {
+  background-color: yellowgreen;
+  text-align: center;
+}
+.work-data {
+  font-style: italic;
+  background-color: green;
+  color: aliceblue;
+}
+.createyourowncer {
+  text-align: center;
+  background-color: darkslategray;
+  color: aliceblue;
+  padding: 15px;
+}
+.aboutstudio {
+  background-color: orangered;
+  font-size: 25px;
+  color: aliceblue;
+  padding: 5px;
+}
+.questions {
+  text-align: center;
+  background-color: forestgreen;
+  padding: 5px;
+  color: aliceblue;
+}
+.detailswrapper {
+  background-color: forestgreen;
+  cursor: pointer;
+}

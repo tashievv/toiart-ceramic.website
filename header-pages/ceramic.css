@@ -1,0 +1,84 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  text-align: center;
+  background-color: darksalmon;
+}
+
+h1 {
+  text-align: center;
+}
+.setdays {
+  text-align: center;
+}
+.ceramic-menu {
+  margin-bottom: 10px;
+  margin-top: 15px;
+  border-style: solid;
+  border-radius: 10px;
+  display: inline;
+  border-color: red;
+  transition: 1s;
+  text-decoration: none;
+}
+.ceramic-menu:hover {
+  border-color: orangered;
+  border-radius: 5%;
+  border-style: dotted;
+}
+.standard {
+  border-style: solid;
+  border-color: lightgreen;
+  border-radius: 10px;
+}
+.textbronze {
+  border-style: solid;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  display: inline-block;
+}
+ul li {
+  list-style: none;
+}
+.textsilver {
+  border-style: solid;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  display: inline-block;
+}
+.silver {
+  border-style: solid;
+  border-color: silver;
+  border-radius: 10px;
+}
+
+.textgold {
+  border-style: solid;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  display: inline-block;
+}
+.gold {
+  border-style: solid;
+  border-color: goldenrod;
+  border-radius: 10px;
+}
+.textdate {
+  border-style: solid;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  display: inline-block;
+}
+.dateimg {
+  border-style: solid;
+  border-color: blueviolet;
+  border-radius: 10px;
+}
+.delivery {
+  font-size: 20px;
+  background-color: darkorange;
+}

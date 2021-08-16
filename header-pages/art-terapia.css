@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: darkorange;
+  text-align: center;
+  color: aliceblue;
+}
+p {
+  font-size: 20px;
+}
+a {
+  border-style: solid;
+  border-color: red;
+  border-radius: 10px;
+  transition: 1s;
+  text-decoration: none;
+  color: aliceblue;
+}
+a:hover {
+  border-radius: 5%;
+  border-color: yellow;
+  border-style: dotted;
+}
